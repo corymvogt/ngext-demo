@@ -1,0 +1,16 @@
+{
+  "name": "ngext-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ngext": "^0.0.27"
+  },
+  "scripts": {
+    "start": "ngext dev",
+    "build": "ngext build"
+  },
+  "volta": {
+    "node": "16.16.0"
+  }
+}
